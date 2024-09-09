@@ -1,4 +1,4 @@
-# 2024-09-09-git: history and conflicts
+# 2024-09-09-git: History and Conflicts
 
 - `git remote add <NAME> <url>: adds the <URL> as the <NAME> for the remote
   - sets up the plumbing between local and remote
