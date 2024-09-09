@@ -12,3 +12,5 @@ HERE IS AN EDIT LOCALLY
 - `git log`
   - if the log runs off your screen, press `q`
   - `git log --oneline`: show you the oneline version of `git log`
+
+REMOTE EDIT AT BOTTOM
