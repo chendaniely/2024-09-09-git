@@ -1,6 +1,4 @@
-# 2024-09-09-git
-
-HERE IS AN EDIT LOCALLY
+# 2024-09-09-git: history and conflicts
 
 - `git remote add <NAME> <url>: adds the <URL> as the <NAME> for the remote
   - sets up the plumbing between local and remote
@@ -12,5 +10,3 @@ HERE IS AN EDIT LOCALLY
 - `git log`
   - if the log runs off your screen, press `q`
   - `git log --oneline`: show you the oneline version of `git log`
-
-REMOTE EDIT AT BOTTOM
