@@ -1,4 +1,4 @@
-# 2024-09-09-git
+# 09/09/2024: History and Conflicts
 
 HERE IS AN EDIT LOCALLY
 
